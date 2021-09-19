@@ -1,7 +1,0 @@
-﻿  Hangman.cpp
-c:\users\zjh\source\repos\hangman\hangman\hangman.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\zjh\source\repos\hangman\hangman\hangman.cpp(161): warning C4018: “>”: 有符号/无符号不匹配
-c:\users\zjh\source\repos\hangman\hangman\hangman.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\zjh\source\repos\hangman\hangman\hangman.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\zjh\source\repos\hangman\hangman\hangman.cpp(363): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Hangman.vcxproj -> C:\Users\ZJH\source\repos\Hangman\Debug\Hangman.exe
